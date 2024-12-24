@@ -1,6 +1,6 @@
 # SMS Sender 2.0
 
-NOTE IT WORK Kiwi Bowser and other NOT chrome
+#NOTE IT WORK Kiwi Bowser and other. Only Not work  chrome
 
 
 SMS Sender 2.0 is a tool that allows users to send SMS requests to any phone number through an easy-to-use web interface. It's designed for quick, bulk sending of SMS requests for testing purposes.
