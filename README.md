@@ -15,7 +15,7 @@ SMS Sender 2.0 is a tool that allows users to send SMS requests to any phone num
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [License](#l# SMS Sender 2.0)
+- [License](#lincese)
 
 ## Description
 SMS Sender 2.0 is a robust platform designed for sending SMS requests to phone numbers via a web interface. This tool is intended for use by developers or testers who need to simulate sending multiple SMS requests.
